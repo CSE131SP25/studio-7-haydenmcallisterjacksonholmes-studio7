@@ -56,6 +56,6 @@ public class Rectangle {
 		}
 		System.out.println("Is it larger than the other one?: " + larger);
 		
-		
+		//
 	}
 }
